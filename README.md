@@ -38,14 +38,14 @@
   <p align="center">
     Quickly setup your projects with this template.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RakeshPotnuru/react-fast-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     · -->
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/RakeshPotnuru/react-fast-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/RakeshPotnuru/react-fast-template/issues">Request Feature</a>
   </p>
 </div>
 
